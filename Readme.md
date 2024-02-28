@@ -7,7 +7,7 @@ Flow of the code:
 - Upload the files to the Google Drive or to the files section in colab notebook and change the path accordingly wherever necessary
 
 1. Run the GRIHAMC-ReportGen.ipynb first
-2. classification_report.json is generated.
+2. classification_report.json is generated. For utilising translation code, use the designated cell in colab and continue the generation of output in the following cells. 
 3. Upload it in the files section of GRIHAMC_Front_end.ipynb
 4. JSON file and CSV files are created.
 5. Run the next cells in GRIHAMC_Front_end.ipynb for segregating the grievances, now classified based on org into stages.
