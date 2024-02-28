@@ -13,3 +13,5 @@ Flow of the code:
 5. Run the next cells in GRIHAMC_Front_end.ipynb for segregating the grievances, now classified based on org into stages.
 
 - Training code can be run as such with the files in problem_statement_1_and_2
+
+- The presentation and pdf files provide information on the project
