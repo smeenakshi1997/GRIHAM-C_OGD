@@ -14,4 +14,10 @@ Flow of the code:
 
 - Training code can be run as such with the files in problem_statement_1_and_2
 
+- Run app.py file after downloading streamlit using installation given in Front end code.
+
+- The output files and training dataset created are also provided in the folder to understand the system better.
+
 - The presentation and pdf files provide information on the project
+
+All the codes and modules were developed completely by me, and are original. All open source tools are utilised as per open source licenses
