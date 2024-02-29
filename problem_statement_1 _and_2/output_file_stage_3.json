@@ -1,0 +1,317 @@
+{
+  "Issues with IT Returns": [
+    {
+      "grievance_id": "CBODT/E/2023/0000018",
+      "org_code": "CBODT",
+      "grievance_text": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Issues with IT Returns >> TDS Mismatch\r\n\r\nTAN/PAN : X-X-X-X-X\r\nFinancial Year/Assessment Year : 2021-2022\r\nRegional office / Office : DGIT(Systems) CPC, E-filing\r\n-----------------------\r\nWe have filed our Income Tax Return for FY 2021-22 on vide Ack No X2X1X9X8X0X1X2X dated 07/10/2022. which was processed on 04/11/2022 .\r\nIn The return we have claimed TDS for our other Transferor   companies &amp; also  offered the Income of other Transferor companies  as, A.K.S.Finstock Pvt. Ltd ( PAN-X-X-X-X-X), Ashriwad Fincap Pvt. Ltd ( PAN-X-X-X-X-X) &amp; Shorewala &amp; Co. Pvt Ltd ( PAN-X-X-X-X-X) , which were merged in this assessee company ( Shorewala  Investment &amp; Properties Pvt Ltd. , PAN-X-X-X-X-X) due to NCLT order dated 01/12/2021. The copy of the NCLT Order is enclosed for your perusal \r\nHowever We have already filed for transfer of TDS in the annual return on  Assessee\u2019s  IT portal through the feedback of AIS/ TIS of the merged Companies. But the sameTDS  has not been considered, However the offered Income has been considered , while processing made u/s 143(1)(a) of the Assessee company , hence the TDS of the merged companies credit has not been provided to the Assessee company while processing the return . Kindly inform how to claim the above transferred TDS of Rs   77067\r\nYour early reply in the same will be highly appreciated",
+      "classification_result": {
+        "Stage 1": {
+          "Best Item": "Central Board of Direct Taxes (Income Tax)",
+          "Top 5 Items": [
+            "Central Board of Direct Taxes (Income Tax)"
+          ],
+          "Best Item Code": 4414
+        },
+        "Stage 2": {
+          "Best Item": "Direct Taxes",
+          "Top 5 Items": [
+            "Direct Taxes",
+            "Other/Misc/Suggestions",
+            "PAN Issues",
+            "Administration related"
+          ],
+          "Best Item Code": 4419
+        },
+        "Stage 3": {
+          "Best Item": "Issues with IT Returns",
+          "Top 5 Items": [
+            "Issues with IT Returns",
+            "Tax Policy Matter/ Suggestions",
+            " Information about Undisclosed Foreign Income and Assets (including financial interest in any entity) located outside India",
+            "Search, Seizure Matters,     Reward to informer"
+          ],
+          "Best Item Code": 4449
+        },
+        "Stage 4": {
+          "Best Item": "TDS Mismatch",
+          "Top 5 Items": [
+            "TDS Mismatch",
+            "IT Return Processing",
+            "Delay Condonation ",
+            "Rectification"
+          ],
+          "Best Item Code": 4454
+        }
+      },
+      "best_items_dict": {
+        "Best Items": {
+          "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+          "Stage 2": "Direct Taxes",
+          "Stage 3": "Issues with IT Returns",
+          "Stage 4": "TDS Mismatch"
+        }
+      },
+      "summary_result": "We have filed our Income Tax Return for FY 2021-22 on vide Ack No X2X1X9X8X0x1X2X dated 07/10/2022. We have already filed for transfer of TDS in the annual return on  Assessee\u2019s  IT portal through the feedback of AIS/ TIS of the merged Companies. But the sameTDS  has not been considered, However the offered Income has been considered, while processing made u/s 143(1)(a) of the Assessee company. Kindly inform how to claim the above transferred TDS of Rs   77067.",
+      "remarks_text": "",
+      "translated_text": ""
+    },
+    {
+      "grievance_id": "CBODT/E/2023/0000020",
+      "org_code": "CBODT",
+      "grievance_text": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Issues with IT Returns >> Refund matter, Wrong Demand\r\n\r\nPAN No. : X-X-X-X-X\r\nAssessment Year : 2019-2020\r\nCharge/Office  : Not Provided\r\nRegional office / Office : DGIT(Systems) CPC, E-filing\r\n-----------------------\r\nDear Sir,\r\nIn my self assessment challan there was a wrong PAN number mentioned which lead to mismatch in my tax payment on IT protal  and demand was raised for Rs. 25,590 which was recovered from me through Refund adjustment in later years .\r\n\r\nI enclosed herewith all the relevant documents for your verification for helping me out in reclaiming my refund due since 2019.\r\n\r\nregards \r\nKedar Oza",
+      "classification_result": {
+        "Stage 1": {
+          "Best Item": "Central Board of Direct Taxes (Income Tax)",
+          "Top 5 Items": [
+            "Central Board of Direct Taxes (Income Tax)"
+          ],
+          "Best Item Code": 4414
+        },
+        "Stage 2": {
+          "Best Item": "Direct Taxes",
+          "Top 5 Items": [
+            "Direct Taxes",
+            "PAN Issues",
+            "Administration related",
+            "Other/Misc/Suggestions"
+          ],
+          "Best Item Code": 4419
+        },
+        "Stage 3": {
+          "Best Item": "Issues with IT Returns",
+          "Top 5 Items": [
+            "Issues with IT Returns",
+            "Tax Policy Matter/ Suggestions",
+            " Information about Undisclosed Foreign Income and Assets (including financial interest in any entity) located outside India",
+            " Information about Benami Transaction "
+          ],
+          "Best Item Code": 4449
+        },
+        "Stage 4": {
+          "Best Item": "Refund matter, Wrong Demand",
+          "Top 5 Items": [
+            "Refund matter, Wrong Demand",
+            "IT Return Processing",
+            "Rectification",
+            "TDS Mismatch"
+          ],
+          "Best Item Code": 4455
+        }
+      },
+      "best_items_dict": {
+        "Best Items": {
+          "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+          "Stage 2": "Direct Taxes",
+          "Stage 3": "Issues with IT Returns",
+          "Stage 4": "Refund matter, Wrong Demand"
+        }
+      },
+      "summary_result": "Central Board of Direct Taxes (Income Tax) issues a wrong PAN number. The PAN number was mentioned which lead to mismatch in tax payment on IT protal. The demand was raised for Rs. 25,590 which was recovered from me through Refund adjustment in later years. I enclosed herewith all the relevant documents for your verification.",
+      "remarks_text": "",
+      "translated_text": ""
+    },
+    {
+      "grievance_id": "CBODT/E/2023/0000023",
+      "org_code": "CBODT",
+      "grievance_text": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Issues with IT Returns >> Refund matter, Wrong Demand\r\n\r\nPAN No. : XkXpX4X2Xe\r\nAssessment Year : 2022-2023\r\nCharge/Office  : Not Provided\r\nRegional office / Office : Region Karnataka & Goa\r\n-----------------------\r\ni registered my grivences under Reg. No. XBXDX/X/X0X2X4X0X7 on 4/12/2022 . My case was closed on 28/12/2022 with a remark &quot;capital gain has been verified and rectified  u/s 154 resulting into  refund of Rs. 6255/-  which was credited to my A/C on 30/12/2022. The case was related to AY 2019-2020.The capital gain was erroneously taken double the actual amt. by CPC Bengaluru. Since the demand was raised for Rs 50482/- the refund of Rs. 11102/-  for the AY 2022-2023 was adjusted and was not paid. Since there is no demand  for AY 2019-2020  now the refund of Rs.11102/-  for the AY 2022-2023 is due to me .",
+      "classification_result": {
+        "Stage 1": {
+          "Best Item": "Central Board of Direct Taxes (Income Tax)",
+          "Top 5 Items": [
+            "Central Board of Direct Taxes (Income Tax)"
+          ],
+          "Best Item Code": 4414
+        },
+        "Stage 2": {
+          "Best Item": "Direct Taxes",
+          "Top 5 Items": [
+            "Direct Taxes",
+            "PAN Issues",
+            "Administration related",
+            "Other/Misc/Suggestions"
+          ],
+          "Best Item Code": 4419
+        },
+        "Stage 3": {
+          "Best Item": "Issues with IT Returns",
+          "Top 5 Items": [
+            "Issues with IT Returns",
+            "Tax Policy Matter/ Suggestions",
+            " Information about Undisclosed Foreign Income and Assets (including financial interest in any entity) located outside India",
+            " Information about Benami Transaction "
+          ],
+          "Best Item Code": 4449
+        },
+        "Stage 4": {
+          "Best Item": "Refund matter, Wrong Demand",
+          "Top 5 Items": [
+            "Refund matter, Wrong Demand",
+            "IT Return Processing",
+            "Rectification",
+            "TDS Mismatch"
+          ],
+          "Best Item Code": 4455
+        }
+      },
+      "best_items_dict": {
+        "Best Items": {
+          "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+          "Stage 2": "Direct Taxes",
+          "Stage 3": "Issues with IT Returns",
+          "Stage 4": "Refund matter, Wrong Demand"
+        }
+      },
+      "summary_result": "My case was closed on 28/12/2022 with a remark &quot;capital gain has been verified and rectified. The case was related to AY 2019-2020. The capital gain was erroneously taken double the actual amt. by CPC Bengaluru. Since the demand was raised for Rs 50482/- the refund of Rs. 11102/-  for the AY 2022-2023 was adjusted and was not paid. Since there is no demand  for AY2019-2020 now the refund is due to me.",
+      "remarks_text": "",
+      "translated_text": ""
+    },
+    {
+      "grievance_id": "CBODT/E/2023/0000286",
+      "org_code": "CBODT",
+      "grievance_text": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Issues with IT Returns >> Appeal effect\r\n\r\nPAN No. : X-X-X-X-X\r\nAssessment Year : 2012-13\r\nCharge/Office  : Not Provided\r\nRegional office / Office : Region Delhi\r\n-----------------------\r\nDear Sir/ Madam,\r\n\r\nThis is in reference to application filed with Ld. AO, DCIT Circle 7(1), Delhi for giving effect to order passed by ITAT  in case of assessee, Federal Mogul TPR  India Limited (formerly known as Goetze TP India Limited) for AY 2012-12. The order was passed by ITAT in 2019. Post giving effect to said order, returned income of assess would be reinstated and assessee would be eligible for refunds along with interest u/s 244A . Copy of latest application filed with AO in this regard is attached for your reference.\r\n\r\nAssessee has been following up with AO both through mails and by way of physical visits, however no action has been taken in this regard. We humbly request your intervention in this matter  for earliest processing as assessee is being unnecessarily harassed. \r\n \r\nAssessee shall be highly obliged for immediate action in this regard. Should your goodself need any further information, assessee shall be pleased to furnish the same. \r\n\r\nRegards,\r\nAssessee\r\nX5X5X3X9X5",
+      "classification_result": {
+        "Stage 1": {
+          "Best Item": "Central Board of Direct Taxes (Income Tax)",
+          "Top 5 Items": [
+            "Central Board of Direct Taxes (Income Tax)"
+          ],
+          "Best Item Code": 4414
+        },
+        "Stage 2": {
+          "Best Item": "Direct Taxes",
+          "Top 5 Items": [
+            "Direct Taxes",
+            "PAN Issues",
+            "Administration related",
+            "Corruption/Malpractices related (VCs, employees)"
+          ],
+          "Best Item Code": 4419
+        },
+        "Stage 3": {
+          "Best Item": "Issues with IT Returns",
+          "Top 5 Items": [
+            "Issues with IT Returns",
+            "Tax Policy Matter/ Suggestions",
+            " Information about Benami Transaction ",
+            " Information about Undisclosed Foreign Income and Assets (including financial interest in any entity) located outside India"
+          ],
+          "Best Item Code": 4449
+        },
+        "Stage 4": {
+          "Best Item": "Appeal effect",
+          "Top 5 Items": [
+            "Appeal effect",
+            "IT Return Processing",
+            "Refund matter, Wrong Demand",
+            "TDS Mismatch"
+          ],
+          "Best Item Code": 4457
+        }
+      },
+      "best_items_dict": {
+        "Best Items": {
+          "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+          "Stage 2": "Direct Taxes",
+          "Stage 3": "Issues with IT Returns",
+          "Stage 4": "Appeal effect"
+        }
+      },
+      "summary_result": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Issues with IT Returns >> Appeal effect. The order was passed by ITAT in 2019. Post giving effect to said order, returned income would be reinstated and assessee would be eligible for refunds along with interest u/s 244A.",
+      "remarks_text": "",
+      "translated_text": ""
+    }
+  ],
+  "Search, Seizure Matters,     Reward to informer": [
+    {
+      "grievance_id": "CBODT/E/2023/0000001",
+      "org_code": "CBODT",
+      "grievance_text": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Search, Seizure Matters,     Reward to informer\r\n\r\nPAN No. : X-X-X-X-X\r\nRegional office / Office : Region Andhra Pradesh & Telangana\r\n-----------------------\r\nHAPPY NEW YEAR 2023\r\nSIR I REQUEST THE HONOURABLE MINISTER FOR FINANCE, GOVERNMENT OF INDIA,NEW DELHI TO SETTLE THE CASE ATTACHED WITH CBODT CENTRAL BOARD OF DIRECT TAXES AND BLESS ME THIS YEAR WITH EMPLOYEMENT",
+      "classification_result": {
+        "Stage 1": {
+          "Best Item": "Central Board of Direct Taxes (Income Tax)",
+          "Top 5 Items": [
+            "Central Board of Direct Taxes (Income Tax)"
+          ],
+          "Best Item Code": 4414
+        },
+        "Stage 2": {
+          "Best Item": "Direct Taxes",
+          "Top 5 Items": [
+            "Direct Taxes",
+            "Administration related",
+            "PAN Issues",
+            "Employee Related/ Services related"
+          ],
+          "Best Item Code": 4419
+        },
+        "Stage 3": {
+          "Best Item": "Search, Seizure Matters,     Reward to informer",
+          "Top 5 Items": [
+            "Search, Seizure Matters,     Reward to informer",
+            "Tax Policy Matter/ Suggestions",
+            " Information about Undisclosed Foreign Income and Assets (including financial interest in any entity) located outside India",
+            " Information about Benami Transaction "
+          ],
+          "Best Item Code": 4451
+        }
+      },
+      "best_items_dict": {
+        "Best Items": {
+          "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+          "Stage 2": "Direct Taxes",
+          "Stage 3": "Search, Seizure Matters,     Reward to informer"
+        }
+      },
+      "summary_result": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Search, Seizure Matters. Reward to informer: X-X-X -X-x-X. Region: Region Andhra Pradesh & Telangana. Region No. : X-Z-Z - Z-Z.",
+      "remarks_text": "",
+      "translated_text": ""
+    }
+  ],
+  "Same PAN numbers allotted to multiple users": [
+    {
+      "grievance_id": "CBODT/E/2023/0004455",
+      "org_code": "CBODT",
+      "grievance_text": "Central Board of Direct Taxes (Income Tax) >> PAN Issues >> Same PAN numbers allotted to multiple users\r\n\r\nName : Patel Vitthalbhai Dahyabhai\r\nAcknowledgement No : Not Provided\r\nCopy of PAN Card (if available) : X-X-X-X-X\r\n-----------------------\r\nRespect sir/mam\r\nI have pan card number X-X-X-X-X was issued on 24/11/1998 from Himmatnagar (Gujarat) and same pan card number issue to same name of person in 2006 from Vadodara (Gujarat) .So I have difficulty in adhar card to link with my pan card and same in return file.in between I have applied for new pan card with my mistake and that new issue pan card I have returned or submitted to income tax office himmatnagar.now I want to my old pan card number as I have earlier..it&#39;s mistake by income tax department so please do needful as soon as possible or before this financial year ..I have attached my old pan card and adhar card want to link this pan card to this attached adhar card",
+      "classification_result": {
+        "Stage 1": {
+          "Best Item": "Central Board of Direct Taxes (Income Tax)",
+          "Top 5 Items": [
+            "Central Board of Direct Taxes (Income Tax)"
+          ],
+          "Best Item Code": 4414
+        },
+        "Stage 2": {
+          "Best Item": "PAN Issues",
+          "Top 5 Items": [
+            "PAN Issues",
+            "Direct Taxes",
+            "Administration related",
+            "Other/Misc/Suggestions"
+          ],
+          "Best Item Code": 4420
+        },
+        "Stage 3": {
+          "Best Item": "Same PAN numbers allotted to multiple users",
+          "Top 5 Items": [
+            "Same PAN numbers allotted to multiple users",
+            "Mistakes in PAN card",
+            "Delay in PAN issues",
+            "Wrong PAN number allotted",
+            "Other"
+          ],
+          "Best Item Code": 4462
+        }
+      },
+      "best_items_dict": {
+        "Best Items": {
+          "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+          "Stage 2": "PAN Issues",
+          "Stage 3": "Same PAN numbers allotted to multiple users"
+        }
+      },
+      "summary_result": "Patel Vitthalbhai Dahyabhai has PAN card number X-X-X -X. He has applied for new pan card with his mistake and that new issue pan card I have returned or submitted to income tax office Himmatnagar. He wants to link this pan card to this attached adhar card and same in return file.",
+      "remarks_text": "",
+      "translated_text": ""
+    }
+  ]
+}

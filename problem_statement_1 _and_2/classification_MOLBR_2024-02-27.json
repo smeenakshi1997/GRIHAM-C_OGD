@@ -1,0 +1,46 @@
+[
+  {
+    "grievance_id": "MOLBR/E/2023/0000003",
+    "org_code": "MOLBR",
+    "grievance_text": "Labour and Employment >> Transfer related issues >> Transfer in/out/Form 13/ Online transfer related issues\r\n\r\nName and Address of Establishment : PERSOLKELLY INDIA PRIVATE LIMITED\r\nUAN No. : X0X3X9X5X8X0\r\nPF Code/ PF Account No. : X-X-X-X-X\r\nPPO No. : Not Provided\r\nScheme Certificate Number : Not Provided\r\nPF Office : Regional Office, Bandra 1\r\n-----------------------\r\nHello dear sir madam\r\nMy name is SYED SHEBAAZ AHMED\r\nMy uan number is X0X3X9X5X8X0\r\nMy pf number is X-X-X-X-X\r\nMy company name is PERSOLKELLY INDIA PRIVATE LIMITED\r\nHers about company details\r\n\r\nSir i apply for transfer request but epfo still rejected reason is Break statement\r\nRejected reason: Your Claim  Claim Id - X-X-X-X-X  has been rejected due to : 1) PAYMENT NOT RECEIVED FOR THE MONTH OF 05/2022 CLARIFY THE SAME \r\n\r\nSo i contact to my Hr he&#39;s given to me Clearfication Letter break statment and also sending Epfo office regarding\r\nSo i request you to Epfo department please approve my transfer\r\nPlease find the attachment pdf file\r\nPlease reply as soon as possible",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Labour and Employment",
+        "Top 5 Items": [
+          "Labour and Employment"
+        ],
+        "Best Item Code": 2173
+      },
+      "Stage 2": {
+        "Best Item": "Transfer related issues",
+        "Top 5 Items": [
+          "Transfer related issues",
+          "Employer's grievance",
+          "Compliance related Issues",
+          "Online Claim Application"
+        ],
+        "Best Item Code": 2347
+      },
+      "Stage 3": {
+        "Best Item": "Transfer in/out/Form 13/ Online transfer related issues",
+        "Top 5 Items": [
+          "Transfer in/out/Form 13/ Online transfer related issues",
+          "Transfer of PF",
+          "Others",
+          "Non receipt of Annexure K"
+        ],
+        "Best Item Code": 2398
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Labour and Employment",
+        "Stage 2": "Transfer related issues",
+        "Stage 3": "Transfer in/out/Form 13/ Online transfer related issues"
+      }
+    },
+    "summary_result": "Labour and Employment >> Transfer related issues >> Transfer in/out/Form 13/ Online transfer related issues. Name and Address of Establishment : PERSOLKELLY INDIA PRIVATE LIMITED. Uan No. : X0X3X9X5X8X0.PF Code/ PF Account No.  : X-X-X X-Z.Scheme Certificate Number : Not Provided.",
+    "remarks_text": "",
+    "translated_text": ""
+  }
+]

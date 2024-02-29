@@ -1,0 +1,772 @@
+[
+  {
+    "grievance_id": "CBODT/E/2023/0000018",
+    "org_code": "CBODT",
+    "grievance_text": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Issues with IT Returns >> TDS Mismatch\r\n\r\nTAN/PAN : X-X-X-X-X\r\nFinancial Year/Assessment Year : 2021-2022\r\nRegional office / Office : DGIT(Systems) CPC, E-filing\r\n-----------------------\r\nWe have filed our Income Tax Return for FY 2021-22 on vide Ack No X2X1X9X8X0X1X2X dated 07/10/2022. which was processed on 04/11/2022 .\r\nIn The return we have claimed TDS for our other Transferor   companies &amp; also  offered the Income of other Transferor companies  as, A.K.S.Finstock Pvt. Ltd ( PAN-X-X-X-X-X), Ashriwad Fincap Pvt. Ltd ( PAN-X-X-X-X-X) &amp; Shorewala &amp; Co. Pvt Ltd ( PAN-X-X-X-X-X) , which were merged in this assessee company ( Shorewala  Investment &amp; Properties Pvt Ltd. , PAN-X-X-X-X-X) due to NCLT order dated 01/12/2021. The copy of the NCLT Order is enclosed for your perusal \r\nHowever We have already filed for transfer of TDS in the annual return on  Assessee\u2019s  IT portal through the feedback of AIS/ TIS of the merged Companies. But the sameTDS  has not been considered, However the offered Income has been considered , while processing made u/s 143(1)(a) of the Assessee company , hence the TDS of the merged companies credit has not been provided to the Assessee company while processing the return . Kindly inform how to claim the above transferred TDS of Rs   77067\r\nYour early reply in the same will be highly appreciated",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Central Board of Direct Taxes (Income Tax)",
+        "Top 5 Items": [
+          "Central Board of Direct Taxes (Income Tax)"
+        ],
+        "Best Item Code": 4414
+      },
+      "Stage 2": {
+        "Best Item": "Direct Taxes",
+        "Top 5 Items": [
+          "Direct Taxes",
+          "Other/Misc/Suggestions",
+          "PAN Issues",
+          "Administration related"
+        ],
+        "Best Item Code": 4419
+      },
+      "Stage 3": {
+        "Best Item": "Issues with IT Returns",
+        "Top 5 Items": [
+          "Issues with IT Returns",
+          "Tax Policy Matter/ Suggestions",
+          " Information about Undisclosed Foreign Income and Assets (including financial interest in any entity) located outside India",
+          "Search, Seizure Matters,     Reward to informer"
+        ],
+        "Best Item Code": 4449
+      },
+      "Stage 4": {
+        "Best Item": "TDS Mismatch",
+        "Top 5 Items": [
+          "TDS Mismatch",
+          "IT Return Processing",
+          "Delay Condonation ",
+          "Rectification"
+        ],
+        "Best Item Code": 4454
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+        "Stage 2": "Direct Taxes",
+        "Stage 3": "Issues with IT Returns",
+        "Stage 4": "TDS Mismatch"
+      }
+    },
+    "summary_result": "We have filed our Income Tax Return for FY 2021-22 on vide Ack No X2X1X9X8X0x1X2X dated 07/10/2022. We have already filed for transfer of TDS in the annual return on  Assessee\u2019s  IT portal through the feedback of AIS/ TIS of the merged Companies. But the sameTDS  has not been considered, However the offered Income has been considered, while processing made u/s 143(1)(a) of the Assessee company. Kindly inform how to claim the above transferred TDS of Rs   77067.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "ARNPG/I/2023/0000006",
+    "org_code": "ARNPG",
+    "grievance_text": "Hi team my name is Ramesha naik s s/o shivu naik h building G1 Room number 23 kavery layout kudlu village bhomanalli post banglore X6X0X8XI am living my birth 08 member in my family sir   government not give any benifits my family sir I am more time informed government officer but not tack care so i am poor parson so what can I do sir my government benifits give only implance parson only give all benifits so poor people not give benifits sir what can I do sir I am already completed more time but all completed close but not give any benifits sir I  have already more dacument sir. please help me all government officer.pls call me sir X3X3X4X2X2",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Department of Administrative Reforms and Public Grievances - PG Division",
+        "Top 5 Items": [
+          "Department of Administrative Reforms and Public Grievances - PG Division"
+        ],
+        "Best Item Code": 6261
+      },
+      "Stage 2": {
+        "Best Item": "Administrative Matters Related",
+        "Top 5 Items": [
+          "Administrative Matters Related",
+          "e-Office Related",
+          "Regional Conferences Related",
+          "Public Grievance Policy Related"
+        ],
+        "Best Item Code": 6267
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Department of Administrative Reforms and Public Grievances - PG Division",
+        "Stage 2": "Administrative Matters Related"
+      }
+    },
+    "summary_result": "Hi team my name is Ramesha naik s s/o shivu naik h building G1 Room number 23 kavery layout kudlu village bhomanalli post banglore X6X0X8XI am living my birth 08 member in my family sir   government not give any benifits my family. I am more time informed government officer but not tack care so i am poor parson so what can I do sir.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "ARNPG/I/2023/0000021",
+    "org_code": "ARNPG",
+    "grievance_text": "CITIZEN SAYS THAT THERE IS NO PROPER ROAD FACILITY IN THEIR VILLAGE DUE TO THIS THEY ARE UNABLE TO TRAVEL OR WALK ON THIS MUD ROAD AND REQUESTING TO CONSTRUCT NEW ROAD. KINDLY DO THE NEEDFUL.",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Department of Administrative Reforms and Public Grievances - PG Division",
+        "Top 5 Items": [
+          "Department of Administrative Reforms and Public Grievances - PG Division"
+        ],
+        "Best Item Code": 6261
+      },
+      "Stage 2": {
+        "Best Item": "Public Grievance Policy Related",
+        "Top 5 Items": [
+          "Public Grievance Policy Related",
+          "Central Secretariat Manual of Office Procedures (CSMOP) Related",
+          "Public Grievance Reforms Related",
+          "Procurement Related"
+        ],
+        "Best Item Code": 6263
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Department of Administrative Reforms and Public Grievances - PG Division",
+        "Stage 2": "Public Grievance Policy Related"
+      }
+    },
+    "summary_result": "CITIZEN SAYS THAT THERE IS NO PROPER ROAD FACILITY IN THEIR VILLAGE DUE TO THIS. They are UNABLE TO TRAVEL OR WALK ON THIS MUD ROAD AND REQUESTING TO CONSTRUCT NEW ROAD. KINDLY DO THE NEEDFUL.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "AYUSH/E/2023/0000001",
+    "org_code": "AYUSH",
+    "grievance_text": "Ayush >> Lab & Pharmocopeia >> Pharmacopoeia Commission for Indian Medicine & Homoeopathy >> ASU&H Pharmocopoeia\r\n-----------------------\r\nWith reference to grievances number XYXSX/X/X0X2X0X4X3, I have requested to provide the documents for PCIMH appeal reference numbers XYXSX/X/X/X2X0X0X0X1 XYXSX/X/X/X2X0X0X0X8 XYXSX/X/X/X2X0X0X0X7 XYXSX/X/X/X2X0X0X0X3\r\nWhich was disposed by PCIMH on 06/09/2022 and 30/09/2022. The applicant not received the documents as stated by PCIMH which is mentioned in appeals. As per  grievances number XYXSX/X/X0X2X0X6X8, PCIMH closed the grievances without sending the required information and stated that the 4 appeals were not disposed off. It&#39;s clear that the PCIMH manipulated the grievances which is against the CPGRAMS rules. Herewith I have attached the grievances details which was disposed by PCIMH without providing the documents . PCIMH always use to manipulate the grievances and disposed off without any merit. I request the PCIMH to provide the required information to my mail ID XoXiXiXrX2X1X@XmXiX.XoX.",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Ayush",
+        "Top 5 Items": [
+          "Ayush"
+        ],
+        "Best Item Code": 22801
+      },
+      "Stage 2": {
+        "Best Item": "Lab & Pharmocopeia",
+        "Top 5 Items": [
+          "Lab & Pharmocopeia",
+          "Ayush Schemes",
+          "Ayush Drugs Policy",
+          "Ayush Research"
+        ],
+        "Best Item Code": 23190
+      },
+      "Stage 3": {
+        "Best Item": "Pharmacopoeia Commission for Indian Medicine & Homoeopathy",
+        "Top 5 Items": [
+          "Pharmacopoeia Commission for Indian Medicine & Homoeopathy"
+        ],
+        "Best Item Code": 23191
+      },
+      "Stage 4": {
+        "Best Item": "ASU&H Pharmocopoeia",
+        "Top 5 Items": [
+          "ASU&H Pharmocopoeia",
+          "ASU&H Drug Research"
+        ],
+        "Best Item Code": 23192
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Ayush",
+        "Stage 2": "Lab & Pharmocopeia",
+        "Stage 3": "Pharmacopoeia Commission for Indian Medicine & Homoeopathy",
+        "Stage 4": "ASU&H Pharmocopoeia"
+      }
+    },
+    "summary_result": "The applicant has not received the documents as stated by PCIMH which is mentioned in appeals. As per grievances number XYXSX/X/ X0X2X0X6X8, PCIMh closed the grievances without sending the required information and stated that the 4 appeals were not disposed off. It&#39;s clear that the PC IMH manipulated the grievances which is against the CPGRAMS rules. I request the PCimH to provide the required info to my mail ID XoXiXiXrX2Z1X@XmXiX.XoX.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "CAGAO/E/2023/0000001",
+    "org_code": "CAGAO",
+    "grievance_text": "O/o the Comptroller & Auditor General of India >> Employee/Pensioner of IA&AD >> Others\r\n\r\nOffice/Officer : AG AUDIT,TELENGANA (Telengana)\r\nName of the concerned : AUDIT III and HEAD OF OFFICE\r\n-----------------------\r\nMy Husband Sri Juluri Uma Maheswara Rao was not given his Promotion of Audit Officer on 01.01.2014 only because a memo 20.12.2013 was served to him for Departmental Enquiry means the enquiry was not even started which was an unlawful act? How he was allowed to participate in AG Office, Hyderabad Society elections in 2014 which was in between the Departmental Enquiry on him? What was the Nomination date, Election date, no of staff participated in elections, how many votes were casted in elections, how many votes my Husband got, who won the election and by how many votes, what was my husbands symbol for election, who gave permission to my husband for participating in elections, when my husband was not eligible for promotion before starting of enquiry how he became eligible for contest elections which was in between enquiry? In order to save the Rights and Wishes of Reservation Staff of AG Office, Hyderabad the elections was being conducted in 2014? If my Husband could have won the elections then was it a strategy to cancel the elections held showing the enquiry pending and not allow a Brahmin staff to be president of the Society and make their reservation staff the president at any cost? Provide me the nomination form, symbol allotted to my husband, ballet paper of election conducted with list of participants and their allotted symbols, my husbands promises list, how much amount was paid by my husband for contesting in election as fee etc? How many Police were made for security for election and from which station they came from and who wrote letter to police for such request? Will AG Office, Hyderabad cancel the elections conducted in 2014 as they known the fraud act of making my husband participate in election and cancel all the works done by the elected president and recover the money spent by him in his term and what will be the escaping strategy of AG Office, Hyderabad now to cover this act performed and who will be made a victim for safety to escape?",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "O/o the Comptroller & Auditor General of India",
+        "Top 5 Items": [
+          "O/o the Comptroller & Auditor General of India"
+        ],
+        "Best Item Code": 6277
+      },
+      "Stage 2": {
+        "Best Item": "Employee/Pensioner of IA&AD",
+        "Top 5 Items": [
+          "Employee/Pensioner of IA&AD",
+          "Grievance pertaining to State Govt. Employees/ Pensioners if pending in PAGs/AGs offices"
+        ],
+        "Best Item Code": 20127
+      },
+      "Stage 3": {
+        "Best Item": "Others",
+        "Top 5 Items": [
+          "Others",
+          "Appointment/promotion",
+          "Pension and other retirement benefits.  ",
+          "Pay",
+          "Transfer & Posting"
+        ],
+        "Best Item Code": 25605
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "O/o the Comptroller & Auditor General of India",
+        "Stage 2": "Employee/Pensioner of IA&AD",
+        "Stage 3": "Others"
+      }
+    },
+    "summary_result": "My Husband Sri Juluri Uma Maheswara Rao was not given his Promotion of Audit Officer on 01.01.2014. A memo 20.12.2013 was served to him for Departmental Enquiry means the enquiry was not even started which was an unlawful act. How he was allowed to participate in AG Office, Hyderabad Society elections in 2014 which was in between the DepartmentalEnquiry on him? How many votes were casted in elections, how many votes my Husband got, who won the election and by how many Votes?",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "CAGAO/E/2023/0000006",
+    "org_code": "CAGAO",
+    "grievance_text": "O/o the Comptroller & Auditor General of India >> Grievance pertaining to State Govt. Employees/ Pensioners if pending in PAGs/AGs offices >> GPF\r\n\r\nOffice/Officer : AG(A&E),HARYANA, CHANDIGARH,\r\nName of the Employee/pensioner : SURESH KUMAR\r\nGPF number : HRLR5534\r\nName of the concerned department : REVENUE\r\n-----------------------\r\nPl provide GPF Balance of Suresh Kumar Retired Tehsildar as on 31.05.2018 and 31.08.2018",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "O/o the Comptroller & Auditor General of India",
+        "Top 5 Items": [
+          "O/o the Comptroller & Auditor General of India"
+        ],
+        "Best Item Code": 6277
+      },
+      "Stage 2": {
+        "Best Item": "Grievance pertaining to State Govt. Employees/ Pensioners if pending in PAGs/AGs offices",
+        "Top 5 Items": [
+          "Grievance pertaining to State Govt. Employees/ Pensioners if pending in PAGs/AGs offices",
+          "Employee/Pensioner of IA&AD"
+        ],
+        "Best Item Code": 20128
+      },
+      "Stage 3": {
+        "Best Item": "GPF",
+        "Top 5 Items": [
+          "GPF",
+          "Pension",
+          "Others",
+          "Gratuity"
+        ],
+        "Best Item Code": 25606
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "O/o the Comptroller & Auditor General of India",
+        "Stage 2": "Grievance pertaining to State Govt. Employees/ Pensioners if pending in PAGs/AGs offices",
+        "Stage 3": "GPF"
+      }
+    },
+    "summary_result": "O/o the Comptroller & Auditor General of India. Grievance pertaining to State Govt. Employees/ Pensioners if pending in PAGs/AGs offices. GPF Balance of Suresh Kumar Retired Tehsildar as on 31.05.2018 and 31.08.2018.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "CBODT/E/2023/0000001",
+    "org_code": "CBODT",
+    "grievance_text": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Search, Seizure Matters,     Reward to informer\r\n\r\nPAN No. : X-X-X-X-X\r\nRegional office / Office : Region Andhra Pradesh & Telangana\r\n-----------------------\r\nHAPPY NEW YEAR 2023\r\nSIR I REQUEST THE HONOURABLE MINISTER FOR FINANCE, GOVERNMENT OF INDIA,NEW DELHI TO SETTLE THE CASE ATTACHED WITH CBODT CENTRAL BOARD OF DIRECT TAXES AND BLESS ME THIS YEAR WITH EMPLOYEMENT",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Central Board of Direct Taxes (Income Tax)",
+        "Top 5 Items": [
+          "Central Board of Direct Taxes (Income Tax)"
+        ],
+        "Best Item Code": 4414
+      },
+      "Stage 2": {
+        "Best Item": "Direct Taxes",
+        "Top 5 Items": [
+          "Direct Taxes",
+          "Administration related",
+          "PAN Issues",
+          "Employee Related/ Services related"
+        ],
+        "Best Item Code": 4419
+      },
+      "Stage 3": {
+        "Best Item": "Search, Seizure Matters,     Reward to informer",
+        "Top 5 Items": [
+          "Search, Seizure Matters,     Reward to informer",
+          "Tax Policy Matter/ Suggestions",
+          " Information about Undisclosed Foreign Income and Assets (including financial interest in any entity) located outside India",
+          " Information about Benami Transaction "
+        ],
+        "Best Item Code": 4451
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+        "Stage 2": "Direct Taxes",
+        "Stage 3": "Search, Seizure Matters,     Reward to informer"
+      }
+    },
+    "summary_result": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Search, Seizure Matters. Reward to informer: X-X-X -X-x-X. Region: Region Andhra Pradesh & Telangana. Region No. : X-Z-Z - Z-Z.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "CBODT/E/2023/0000020",
+    "org_code": "CBODT",
+    "grievance_text": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Issues with IT Returns >> Refund matter, Wrong Demand\r\n\r\nPAN No. : X-X-X-X-X\r\nAssessment Year : 2019-2020\r\nCharge/Office  : Not Provided\r\nRegional office / Office : DGIT(Systems) CPC, E-filing\r\n-----------------------\r\nDear Sir,\r\nIn my self assessment challan there was a wrong PAN number mentioned which lead to mismatch in my tax payment on IT protal  and demand was raised for Rs. 25,590 which was recovered from me through Refund adjustment in later years .\r\n\r\nI enclosed herewith all the relevant documents for your verification for helping me out in reclaiming my refund due since 2019.\r\n\r\nregards \r\nKedar Oza",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Central Board of Direct Taxes (Income Tax)",
+        "Top 5 Items": [
+          "Central Board of Direct Taxes (Income Tax)"
+        ],
+        "Best Item Code": 4414
+      },
+      "Stage 2": {
+        "Best Item": "Direct Taxes",
+        "Top 5 Items": [
+          "Direct Taxes",
+          "PAN Issues",
+          "Administration related",
+          "Other/Misc/Suggestions"
+        ],
+        "Best Item Code": 4419
+      },
+      "Stage 3": {
+        "Best Item": "Issues with IT Returns",
+        "Top 5 Items": [
+          "Issues with IT Returns",
+          "Tax Policy Matter/ Suggestions",
+          " Information about Undisclosed Foreign Income and Assets (including financial interest in any entity) located outside India",
+          " Information about Benami Transaction "
+        ],
+        "Best Item Code": 4449
+      },
+      "Stage 4": {
+        "Best Item": "Refund matter, Wrong Demand",
+        "Top 5 Items": [
+          "Refund matter, Wrong Demand",
+          "IT Return Processing",
+          "Rectification",
+          "TDS Mismatch"
+        ],
+        "Best Item Code": 4455
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+        "Stage 2": "Direct Taxes",
+        "Stage 3": "Issues with IT Returns",
+        "Stage 4": "Refund matter, Wrong Demand"
+      }
+    },
+    "summary_result": "Central Board of Direct Taxes (Income Tax) issues a wrong PAN number. The PAN number was mentioned which lead to mismatch in tax payment on IT protal. The demand was raised for Rs. 25,590 which was recovered from me through Refund adjustment in later years. I enclosed herewith all the relevant documents for your verification.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "CBODT/E/2023/0000023",
+    "org_code": "CBODT",
+    "grievance_text": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Issues with IT Returns >> Refund matter, Wrong Demand\r\n\r\nPAN No. : XkXpX4X2Xe\r\nAssessment Year : 2022-2023\r\nCharge/Office  : Not Provided\r\nRegional office / Office : Region Karnataka & Goa\r\n-----------------------\r\ni registered my grivences under Reg. No. XBXDX/X/X0X2X4X0X7 on 4/12/2022 . My case was closed on 28/12/2022 with a remark &quot;capital gain has been verified and rectified  u/s 154 resulting into  refund of Rs. 6255/-  which was credited to my A/C on 30/12/2022. The case was related to AY 2019-2020.The capital gain was erroneously taken double the actual amt. by CPC Bengaluru. Since the demand was raised for Rs 50482/- the refund of Rs. 11102/-  for the AY 2022-2023 was adjusted and was not paid. Since there is no demand  for AY 2019-2020  now the refund of Rs.11102/-  for the AY 2022-2023 is due to me .",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Central Board of Direct Taxes (Income Tax)",
+        "Top 5 Items": [
+          "Central Board of Direct Taxes (Income Tax)"
+        ],
+        "Best Item Code": 4414
+      },
+      "Stage 2": {
+        "Best Item": "Direct Taxes",
+        "Top 5 Items": [
+          "Direct Taxes",
+          "PAN Issues",
+          "Administration related",
+          "Other/Misc/Suggestions"
+        ],
+        "Best Item Code": 4419
+      },
+      "Stage 3": {
+        "Best Item": "Issues with IT Returns",
+        "Top 5 Items": [
+          "Issues with IT Returns",
+          "Tax Policy Matter/ Suggestions",
+          " Information about Undisclosed Foreign Income and Assets (including financial interest in any entity) located outside India",
+          " Information about Benami Transaction "
+        ],
+        "Best Item Code": 4449
+      },
+      "Stage 4": {
+        "Best Item": "Refund matter, Wrong Demand",
+        "Top 5 Items": [
+          "Refund matter, Wrong Demand",
+          "IT Return Processing",
+          "Rectification",
+          "TDS Mismatch"
+        ],
+        "Best Item Code": 4455
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+        "Stage 2": "Direct Taxes",
+        "Stage 3": "Issues with IT Returns",
+        "Stage 4": "Refund matter, Wrong Demand"
+      }
+    },
+    "summary_result": "My case was closed on 28/12/2022 with a remark &quot;capital gain has been verified and rectified. The case was related to AY 2019-2020. The capital gain was erroneously taken double the actual amt. by CPC Bengaluru. Since the demand was raised for Rs 50482/- the refund of Rs. 11102/-  for the AY 2022-2023 was adjusted and was not paid. Since there is no demand  for AY2019-2020 now the refund is due to me.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "CBODT/E/2023/0000286",
+    "org_code": "CBODT",
+    "grievance_text": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Issues with IT Returns >> Appeal effect\r\n\r\nPAN No. : X-X-X-X-X\r\nAssessment Year : 2012-13\r\nCharge/Office  : Not Provided\r\nRegional office / Office : Region Delhi\r\n-----------------------\r\nDear Sir/ Madam,\r\n\r\nThis is in reference to application filed with Ld. AO, DCIT Circle 7(1), Delhi for giving effect to order passed by ITAT  in case of assessee, Federal Mogul TPR  India Limited (formerly known as Goetze TP India Limited) for AY 2012-12. The order was passed by ITAT in 2019. Post giving effect to said order, returned income of assess would be reinstated and assessee would be eligible for refunds along with interest u/s 244A . Copy of latest application filed with AO in this regard is attached for your reference.\r\n\r\nAssessee has been following up with AO both through mails and by way of physical visits, however no action has been taken in this regard. We humbly request your intervention in this matter  for earliest processing as assessee is being unnecessarily harassed. \r\n \r\nAssessee shall be highly obliged for immediate action in this regard. Should your goodself need any further information, assessee shall be pleased to furnish the same. \r\n\r\nRegards,\r\nAssessee\r\nX5X5X3X9X5",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Central Board of Direct Taxes (Income Tax)",
+        "Top 5 Items": [
+          "Central Board of Direct Taxes (Income Tax)"
+        ],
+        "Best Item Code": 4414
+      },
+      "Stage 2": {
+        "Best Item": "Direct Taxes",
+        "Top 5 Items": [
+          "Direct Taxes",
+          "PAN Issues",
+          "Administration related",
+          "Corruption/Malpractices related (VCs, employees)"
+        ],
+        "Best Item Code": 4419
+      },
+      "Stage 3": {
+        "Best Item": "Issues with IT Returns",
+        "Top 5 Items": [
+          "Issues with IT Returns",
+          "Tax Policy Matter/ Suggestions",
+          " Information about Benami Transaction ",
+          " Information about Undisclosed Foreign Income and Assets (including financial interest in any entity) located outside India"
+        ],
+        "Best Item Code": 4449
+      },
+      "Stage 4": {
+        "Best Item": "Appeal effect",
+        "Top 5 Items": [
+          "Appeal effect",
+          "IT Return Processing",
+          "Refund matter, Wrong Demand",
+          "TDS Mismatch"
+        ],
+        "Best Item Code": 4457
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+        "Stage 2": "Direct Taxes",
+        "Stage 3": "Issues with IT Returns",
+        "Stage 4": "Appeal effect"
+      }
+    },
+    "summary_result": "Central Board of Direct Taxes (Income Tax) >> Direct Taxes >> Issues with IT Returns >> Appeal effect. The order was passed by ITAT in 2019. Post giving effect to said order, returned income would be reinstated and assessee would be eligible for refunds along with interest u/s 244A.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "AYUSH/E/2023/0000035",
+    "org_code": "AYUSH",
+    "grievance_text": "Ayush >> Hospital Related >> Siddha Related >> Lack of facilities\r\n\r\nAyush Institute : National Institute of Siddha,  Tamil Nadu\r\n-----------------------\r\nComplaint letters dated 19-Jan-2023 and 20-Jan-2023 is appended herewith please.",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Ayush",
+        "Top 5 Items": [
+          "Ayush"
+        ],
+        "Best Item Code": 22801
+      },
+      "Stage 2": {
+        "Best Item": "Hospital Related",
+        "Top 5 Items": [
+          "Hospital Related",
+          "Ayush Schemes",
+          "Covid- 19",
+          "Ayush Research"
+        ],
+        "Best Item Code": 22802
+      },
+      "Stage 3": {
+        "Best Item": "Siddha Related",
+        "Top 5 Items": [
+          "Siddha Related",
+          "Sowa Related",
+          "Unani Related",
+          "Ayurveda Related",
+          "Homoeopathy Related"
+        ],
+        "Best Item Code": 22806
+      },
+      "Stage 4": {
+        "Best Item": "Lack of facilities",
+        "Top 5 Items": [
+          "Lack of facilities",
+          "Deficiency in treatment",
+          "others",
+          "Non-availablity of Medicines"
+        ],
+        "Best Item Code": 22832
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Ayush",
+        "Stage 2": "Hospital Related",
+        "Stage 3": "Siddha Related",
+        "Stage 4": "Lack of facilities"
+      }
+    },
+    "summary_result": "Ayush Institute : National Institute of Siddha, Tamil Nadu. Lack of facilities is a major problem. Complaint letters dated 19-Jan-2023 and 20-Jan,2023 is appended herewith please. Ayush Institute is a leading hospital in the state of Tamil Nadu, India.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "CBODT/E/2023/0004455",
+    "org_code": "CBODT",
+    "grievance_text": "Central Board of Direct Taxes (Income Tax) >> PAN Issues >> Same PAN numbers allotted to multiple users\r\n\r\nName : Patel Vitthalbhai Dahyabhai\r\nAcknowledgement No : Not Provided\r\nCopy of PAN Card (if available) : X-X-X-X-X\r\n-----------------------\r\nRespect sir/mam\r\nI have pan card number X-X-X-X-X was issued on 24/11/1998 from Himmatnagar (Gujarat) and same pan card number issue to same name of person in 2006 from Vadodara (Gujarat) .So I have difficulty in adhar card to link with my pan card and same in return file.in between I have applied for new pan card with my mistake and that new issue pan card I have returned or submitted to income tax office himmatnagar.now I want to my old pan card number as I have earlier..it&#39;s mistake by income tax department so please do needful as soon as possible or before this financial year ..I have attached my old pan card and adhar card want to link this pan card to this attached adhar card",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Central Board of Direct Taxes (Income Tax)",
+        "Top 5 Items": [
+          "Central Board of Direct Taxes (Income Tax)"
+        ],
+        "Best Item Code": 4414
+      },
+      "Stage 2": {
+        "Best Item": "PAN Issues",
+        "Top 5 Items": [
+          "PAN Issues",
+          "Direct Taxes",
+          "Administration related",
+          "Other/Misc/Suggestions"
+        ],
+        "Best Item Code": 4420
+      },
+      "Stage 3": {
+        "Best Item": "Same PAN numbers allotted to multiple users",
+        "Top 5 Items": [
+          "Same PAN numbers allotted to multiple users",
+          "Mistakes in PAN card",
+          "Delay in PAN issues",
+          "Wrong PAN number allotted",
+          "Other"
+        ],
+        "Best Item Code": 4462
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Central Board of Direct Taxes (Income Tax)",
+        "Stage 2": "PAN Issues",
+        "Stage 3": "Same PAN numbers allotted to multiple users"
+      }
+    },
+    "summary_result": "Patel Vitthalbhai Dahyabhai has PAN card number X-X-X -X. He has applied for new pan card with his mistake and that new issue pan card I have returned or submitted to income tax office Himmatnagar. He wants to link this pan card to this attached adhar card and same in return file.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "CBOEC/E/2023/0000001",
+    "org_code": "CBOEC",
+    "grievance_text": "Central Board of Excise and Customs >> Indirect Taxes Related >> Customs >> Incorrect custom duty levied\r\n\r\nState : west bengal\r\nJurisdiction of the complainant (Zone) : Not Provided\r\nPort Code : Not Provided\r\nIEC Code : Not Provided\r\nBE/ SB No : Not Provided\r\nRegion : Kolkata ZONE (Custom)\r\n-----------------------\r\nGood morning\r\nHope you are having a fantastic day. I would like to lodge a complaint against the Kolkata customs department for their unprofessional behaviour. My personal parcel arriving from Saudi Arabia was held at the Kolkata customs department and levied a fifty sum of 30000, the reasons for which are clearly unknown. No form of communication is possible with them as they never pick up phone calls, reply to the emails, respond to tweets.\r\n\r\nThe package is worth 300 saudi riyals and contains dates, chocolates, atta and biscuits weighing 30 kgs. I still don&#39;t get why a package containing food items will be contained for 2 months without any clarification. Even if there were any issues , we were to be informed but that didn&#39;t happen unfortunately.\r\n\r\n2 months is enough for perishable items to rot in the box, the condition in which they will be lying is also not hard to guess. For this inconvenience I would like to ask for an remuneration of equal amount in INR which is approximately 6,582 rupee. I understand the hustle bustle of a government department but that in no way means that a case should go unattended. \r\n\r\nOne more thing - the numbers available on the official page to contact kolkata customs department are either invalid or never received by anyone.\r\n\r\nconsignment number: X-X-X-X-X",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Central Board of Indirect Taxes and Customs",
+        "Top 5 Items": [
+          "Central Board of Indirect Taxes and Customs"
+        ],
+        "Best Item Code": 4465
+      },
+      "Stage 2": {
+        "Best Item": "Indirect Taxes Related",
+        "Top 5 Items": [
+          "Indirect Taxes Related",
+          "CBIC Employee Related"
+        ],
+        "Best Item Code": 4466
+      },
+      "Stage 3": {
+        "Best Item": "Customs",
+        "Top 5 Items": [
+          "Customs",
+          "Clarificaton / Policy ",
+          "Central Goods and Service Tax, Central Excise, Service Tax",
+          "Systems Related Issues"
+        ],
+        "Best Item Code": 4469
+      },
+      "Stage 4": {
+        "Best Item": "Incorrect custom duty levied",
+        "Top 5 Items": [
+          "Incorrect custom duty levied",
+          "Complaint  against departmental officers",
+          "Alert on Exporter / Importer",
+          "Complaint against Importer / Exporter"
+        ],
+        "Best Item Code": 4506
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Central Board of Indirect Taxes and Customs",
+        "Stage 2": "Indirect Taxes Related",
+        "Stage 3": "Customs",
+        "Stage 4": "Incorrect custom duty levied"
+      }
+    },
+    "summary_result": "The package is worth 300 saudi riyals and contains dates, chocolates, atta and biscuits weighing 30 kgs. No form of communication is possible with them as they never pick up phone calls, reply to the emails, respond to tweets. For this inconvenience I would like to ask for an remuneration of equal amount in INR which is approximately 6,582 rupee.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "MEAPD/E/2023/0000002",
+    "org_code": "MEAPD",
+    "grievance_text": "External Affairs >> Others\r\n-----------------------\r\n..\r\nI Danapuneni Sreekanth Rao,paid tution fee to college in New-Zealand in 2009,i paid tution fee but they did not provided any services,i approached Indian embassy who responsible for Indians safety and difficulties in foreign country also not provided anything,iam sending mails to Indian embassy since13 years,in cpgrams portal I sent 7000 grievances to Ministry of External affairs,for my loss Ministry of External affairs,indian embassy,indian Government is responsible,i should get permanent residency from New-Zealand Government and Dollars 913336 NZD equivalent to Indian rupees 5 crores Indian rupees should get from Ministry of External affairs and Indian Government as soon as possible,already 13 years over.please send money to given below Bank ACCOUNT. \r\n\r\n\r\nBank Details: \r\nACCOUNT NAME: Sreekanth Rao Danapuneni \r\n\r\nACCOUNT NO: X2X8X8X9X8X \r\n\r\nIFSC CODE: X-X-X-X-X \r\n\r\nBANK: STATE BANK OF INDIA \r\n\r\nBRANCH:MANTHANI \r\nSTATE. : TELANGANA \r\nCOUNTRY :. INDIA \r\n\r\n\r\nThanks and regards \r\n--------------------------------------- \r\nDanapuneni Sreekanth Rao \r\n+X1X9X3X4X8X0",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "External Affairs",
+        "Top 5 Items": [
+          "External Affairs"
+        ],
+        "Best Item Code": 1221
+      },
+      "Stage 2": {
+        "Best Item": "Others",
+        "Top 5 Items": [
+          "Others"
+        ],
+        "Best Item Code": 1441
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "External Affairs",
+        "Stage 2": "Others"
+      }
+    },
+    "summary_result": "External Affairs >> Others \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0--I Danapuneni Sreekanth Rao,paid tution fee to college in New-Zealand in 2009,i paid tution fees but they did not provided any services,i approached Indian embassy who responsible for Indians safety and difficulties in foreign country also not provided anything,iam sending mails to Indian embassy since13 years,in cpgrams portal I sent 7000 grievances to Ministry of External affairs,indian embassy,ind Indian Government is responsible,i should get permanent residency from New- Zealand Government and Dollars 913336 NZD equivalent to Indian rupees 5 crores Indian rupee should get from",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "MOLBR/E/2023/0000004",
+    "org_code": "MOLBR",
+    "grievance_text": "Labour and Employment >> Compliance related Issues >> Non coverage of establishment\r\n\r\nName and Address of Establishment : DEVENDRA NATH SINGH Khalari Angul Anugul Odisha Khalari Angul Anugul Odisha ANUGUL\r\nUAN No. : X0X4X2X3X2X8\r\nPF Code/ PF Account No. : XRXBXSXXXXXXXXXXXXXXXXXXXX\r\nPPO No. : Not Provided\r\nScheme Certificate Number : Not Provided\r\nPF Office : Regional Office, Bhubaneshwar\r\n-----------------------\r\nDEAR SIR MAI SHRI JAYKUMAR HARIDAS PATIL MAINE APNE PEHLE WALLE 1ST EMPLOYER X-X-X-X-X KO APNE DOCUMENTS UNKE KEHNE PERR Adhar Card Pan Card Our Bank Passbook WATSUP PERR SEND KARR DIYA THA KI UNHONE MUZE BOLA THA KI MAI TUMHARA BANK  KYC APPROVED KARKE DETA HU KARKE LEKIN SIR UNHONE MERA BANK KYC  APPROVED NA KARTE HUYE MERE 2ND COMPANY X-X-X-X-X ME MERA JANBOOZ KERR 1 AUGUST 2022 KI JOINNG DATE UPDATED KARR DIYA THA JAB MAINE UNSE CONTACT KIYA THA KI AAPNE AISA KYU KIYA TO WOH MUZE PEHCHANNE SE ENKAR KARAHE THE KI MAI AAPKO NAHI PEHCHNTA KARKE FIR SIR MAINE Cp Grams Grivance Perr MERE 2ND EMPLOYERS X-X-X-X-X SE CONTACT KARKE JABKI MAINE UNKE PASS KAMM BHI NA KARTE HUYE BHI MERA BANK KYC DSC SE APPROVED KARR DIYA HAI SIR ABHI BHI YEH SAB HO JANE KE BAAD MERE UAN PORTAL PERR DUBARA TIASRI BAAR  KISI OUR COMPANY KI  XHXBXAXEXHXAX KI 01 NOVEMBER 2022 KI JOINING DATE BATA RAHA HAI JABKI MAI WOH JAGAH NA TO GAYA HU OUR NAHI MAINE KABHI WAHA KAMM KIYA HAI PLZ SIR MERE  BAAR BAAR REJOINING KON KARR RAHA HAI KUCH SAMAZ NAHI AARHA HAI KRIPA KARKE MERI PROBLEM KA KUCH SOLUTION DHOOND LIJIYE KI YEH KON KARRR RAHA HAI OUR KYU KARR RAHA OUR MAI APNA PF AMMOUNT KAB WITHDRWAL KARR SAKTA HU JO BAAR BAAR REJOINING HO RAHA HAI THANKYOU SIR",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Labour and Employment",
+        "Top 5 Items": [
+          "Labour and Employment"
+        ],
+        "Best Item Code": 2173
+      },
+      "Stage 2": {
+        "Best Item": "Compliance related Issues",
+        "Top 5 Items": [
+          "Compliance related Issues",
+          "Employer's grievance",
+          "Vigilance related",
+          "Service matter grievances related to O/o CLC (Officers/ staff working under CLC(C).)"
+        ],
+        "Best Item Code": 2345
+      },
+      "Stage 3": {
+        "Best Item": "Non coverage of establishment",
+        "Top 5 Items": [
+          "Non coverage of establishment",
+          "UAN related issues/KYC related issues.",
+          "PF/Pension details not available with the beneficiaries.",
+          "Employer not forwarding the online request for member details correction/ Non updation of member profile by employer/Date of joining/date of exit not entered by Employer"
+        ],
+        "Best Item Code": 2387
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Labour and Employment",
+        "Stage 2": "Compliance related Issues",
+        "Stage 3": "Non coverage of establishment"
+      }
+    },
+    "summary_result": "Labour and Employment >> Compliance related Issues >> Non coverage of establishment shortcomings. Name and Address of Establishment : DEVENDRA NATH SINGH Khalari Angul Anugul Odisha Khalari angul anugul \u00a0Anugul\u00a0Odisha.PF Code/ PF Account No. : XRXBXSXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXX. Not Provided: Not Provided; PPO Certificate Number : Not Provided.PF Office : Regional Office, Bhubaneshwar\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u201cBharta\u2019s\u201d Regional Office.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "MORLY/E/2023/0000001",
+    "org_code": "MORLY",
+    "grievance_text": "Railways, ( Railway Board) >> Miscellaneous\r\n\r\nRailway Board/ Zone/ PSU/ PU/ Office : Railway Board - Railway Board\r\n-----------------------\r\nTo\r\nThe Railway Board\r\nSDAH  ER\r\n\r\nLocation   Madhyamgram\r\n\r\nI  further to informing you that the temporary railway line crossing near Madhyamgram station  BT end.  is in a very bad condition. The stones on the side of the line have been moved far enough to cause great danger to the yrain,common people and train passengers at any time. Please look at the matter.  Although it was said that the place will be fixed but not done!\r\nThanking you\r\nYours truly\r\nBhaskar  Mitra\r\n1.1.2023",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Railway",
+        "Top 5 Items": [
+          "Railway"
+        ],
+        "Best Item Code": 2565
+      },
+      "Stage 2": {
+        "Best Item": "Miscellaneous",
+        "Top 5 Items": [
+          "Miscellaneous",
+          "Complaint against staff other than Train and station",
+          "Service matter",
+          "Issues related to Introduction/Extension/Stoppage of trains"
+        ],
+        "Best Item Code": 11578
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Railway",
+        "Stage 2": "Miscellaneous"
+      }
+    },
+    "summary_result": "Railway Board/ Zone/ PSU/ PU/ Office : Railway Board - Railway Board. The temporary railway line crossing near Madhyamgram station is in a very bad condition. The stones on the side of the line have been moved far enough to cause great danger to the yrain,common people and train passengers at any time.",
+    "remarks_text": "",
+    "translated_text": ""
+  },
+  {
+    "grievance_id": "MOLBR/E/2023/0000003",
+    "org_code": "MOLBR",
+    "grievance_text": "Labour and Employment >> Transfer related issues >> Transfer in/out/Form 13/ Online transfer related issues\r\n\r\nName and Address of Establishment : PERSOLKELLY INDIA PRIVATE LIMITED\r\nUAN No. : X0X3X9X5X8X0\r\nPF Code/ PF Account No. : X-X-X-X-X\r\nPPO No. : Not Provided\r\nScheme Certificate Number : Not Provided\r\nPF Office : Regional Office, Bandra 1\r\n-----------------------\r\nHello dear sir madam\r\nMy name is SYED SHEBAAZ AHMED\r\nMy uan number is X0X3X9X5X8X0\r\nMy pf number is X-X-X-X-X\r\nMy company name is PERSOLKELLY INDIA PRIVATE LIMITED\r\nHers about company details\r\n\r\nSir i apply for transfer request but epfo still rejected reason is Break statement\r\nRejected reason: Your Claim  Claim Id - X-X-X-X-X  has been rejected due to : 1) PAYMENT NOT RECEIVED FOR THE MONTH OF 05/2022 CLARIFY THE SAME \r\n\r\nSo i contact to my Hr he&#39;s given to me Clearfication Letter break statment and also sending Epfo office regarding\r\nSo i request you to Epfo department please approve my transfer\r\nPlease find the attachment pdf file\r\nPlease reply as soon as possible",
+    "classification_result": {
+      "Stage 1": {
+        "Best Item": "Labour and Employment",
+        "Top 5 Items": [
+          "Labour and Employment"
+        ],
+        "Best Item Code": 2173
+      },
+      "Stage 2": {
+        "Best Item": "Transfer related issues",
+        "Top 5 Items": [
+          "Transfer related issues",
+          "Employer's grievance",
+          "Compliance related Issues",
+          "Online Claim Application"
+        ],
+        "Best Item Code": 2347
+      },
+      "Stage 3": {
+        "Best Item": "Transfer in/out/Form 13/ Online transfer related issues",
+        "Top 5 Items": [
+          "Transfer in/out/Form 13/ Online transfer related issues",
+          "Transfer of PF",
+          "Others",
+          "Non receipt of Annexure K"
+        ],
+        "Best Item Code": 2398
+      }
+    },
+    "best_items_dict": {
+      "Best Items": {
+        "Stage 1": "Labour and Employment",
+        "Stage 2": "Transfer related issues",
+        "Stage 3": "Transfer in/out/Form 13/ Online transfer related issues"
+      }
+    },
+    "summary_result": "Labour and Employment >> Transfer related issues >> Transfer in/out/Form 13/ Online transfer related issues. Name and Address of Establishment : PERSOLKELLY INDIA PRIVATE LIMITED. Uan No. : X0X3X9X5X8X0.PF Code/ PF Account No.  : X-X-X X-Z.Scheme Certificate Number : Not Provided.",
+    "remarks_text": "",
+    "translated_text": ""
+  }
+]
