@@ -1,4 +1,5 @@
 GRIHAM-Clustering 😊
+![image](https://github.com/smeenakshi1997/GRIHAM-C_OGD/assets/22259053/d9af92b5-b78a-49f8-919d-31d14ff48879)
 
 Link to the system walkthrough video in Youtube: https://youtu.be/FWoXG2QRYSw
 
