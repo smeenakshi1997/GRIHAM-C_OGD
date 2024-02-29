@@ -1,5 +1,7 @@
 GRIHAM-Clustering 😊
 
+Link to the system walkthrough video in Youtube: https://youtu.be/FWoXG2QRYSw
+
 Solution for Problem Statement 1:
 
 All data are utilised as per the dataset provided for the competition. Some data are converted in various format for ease of access and is provided here.
