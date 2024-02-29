@@ -8,7 +8,7 @@ Solution for Problem Statement 1:
 
 All data are utilised as per the dataset provided for the competition. Some data are converted in various format for ease of access and is provided here.
 
-**Large files such as the models and training files (over 25 MB) are shared in: https://drive.google.com/drive/folders/1KYoLJ8Eim-ao9DZ5bS0IhL2V3tadYA2r?usp=drive_link
+**Large files (and video of the project walkthrough) such as the models and training files (over 25 MB) are shared in: https://drive.google.com/drive/folders/1KYoLJ8Eim-ao9DZ5bS0IhL2V3tadYA2r?usp=drive_link
 **
 
 Kindly contact me in email: smeenakshi1997@gmail.com for any clarification
